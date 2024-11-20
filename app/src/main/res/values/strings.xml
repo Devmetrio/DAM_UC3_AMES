@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DAM_UC3_AMES</string>
+    <string-array name="opciones_spinner">
+        <item>Economico</item>
+        <item>Ejecutivo</item>
+        <item>Premium</item>
+    </string-array>
 </resources>
